@@ -1,3 +1,5 @@
+#完了
+
 h = 10.0
 i = gets.chomp
 j = i.split

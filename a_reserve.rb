@@ -1,3 +1,5 @@
+#未完了
+
 i = gets.chomp
 j = i.split
 k = j[0].to_i - 1
