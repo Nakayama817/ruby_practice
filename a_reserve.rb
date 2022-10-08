@@ -1,4 +1,4 @@
-#未完了
+#未完了(10/7)
 
 i = gets.chomp
 j = i.split
